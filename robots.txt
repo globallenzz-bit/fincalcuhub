@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://uselection2028.netlify.app/sitemap.xml
+
+Crawl-delay: 1
